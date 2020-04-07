@@ -3,12 +3,13 @@
 
 An implement of PySpark on AWS EMR
 
-Upload requirement script on S3 bucket
+1. Upload requirement script on S3 bucket
 
-Create Key pair on EC2
+2. Create Key pair on EC2
 
-Create cluster on EMR
+3. Create cluster on EMR
 
-Create notebook on EMR while linking it to the previous cluster
+4. Create notebook on EMR while linking it to the previous cluster
 
-Run pyspark code in notebook
+5. Run pyspark code using AWS sample Data in S3 in the notebook
+
